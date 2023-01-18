@@ -1,5 +1,5 @@
 import java.util.*;
-import java.io.*;  // Import the File class
+import java.io.*;
 
 public class insta_follower{
     public static void main(String[] args) {
