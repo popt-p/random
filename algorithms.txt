@@ -1,0 +1,12 @@
+I am following algorithms list
+interestinng ones:
+from wikipedia list : https://en.wikipedia.org/wiki/List_of_algorithms
+
+1: Brent's algorithm: 
+2: Floyd's turtle hair algo:
+https://youtu.be/5rNovVFB0TA?si=f3E8g5H9wmuBg66D
+
+3: Stable marriage problem: 
+Numerophile:
+https://youtu.be/Qcv1IqHWAzg?si=ngeQN8PyZv_tbw70
+https://youtu.be/LtTV6rIxhdo?si=SfgxM81f-JRn9L94
